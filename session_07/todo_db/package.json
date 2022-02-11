@@ -1,6 +1,7 @@
 {
-  "name": "session_04",
+  "name": "session_07",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,10 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.6",
     "express": "^4.17.2",
-    "pug": "^3.0.2"
-  },
-  "devDependencies": {},
-  "description": ""
+    "pg": "^8.7.3"
+  }
 }
